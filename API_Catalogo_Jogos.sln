@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO_APP_2", "DIO_APP_2\DIO_APP_2.csproj", "{A9ED1E4E-1499-4D57-AF08-EB90C800EAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9ED1E4E-1499-4D57-AF08-EB90C800EAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ED1E4E-1499-4D57-AF08-EB90C800EAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ED1E4E-1499-4D57-AF08-EB90C800EAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ED1E4E-1499-4D57-AF08-EB90C800EAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C16E93-ABAB-4DCA-9E9D-0CAE8641CD8E}
+	EndGlobalSection
+EndGlobal
